@@ -8,6 +8,7 @@
 
 .transaction:nth-child(2n) {
   background-color: rgba(255, 111, 233, 0.1);
+  background-color: rgba(111, 243, 255, 0.1);
 }
 
 .transaction td:nth-child(n + 2) {
